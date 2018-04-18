@@ -1,0 +1,4 @@
+﻿Topic 1: Binary array
+Topic 2: Tuples
+Topic 3 :Local functions
+Topic 4: Pattern Matching
